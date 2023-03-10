@@ -1,0 +1,28 @@
+#welcome-section{
+    text-align: center;
+    width: 100%;
+    height: 50px;
+    background-color: red;
+}
+
+#Projects{
+    text-align: center;
+    width: 100%;
+    height: 200px;
+    background-color: grey;
+}
+
+#Profile-link{
+    text-align: center;
+    width: 100%;
+    height: 200px;
+    background-color: grey;
+}
+
+#div1{
+    display:flex;
+}
+
+#navbar{
+    text-align: center;
+}
